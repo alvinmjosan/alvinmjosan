@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ Hi, I'm Alvin M Josan
-### Full-Stack, AI & Quantitative Systems Engineer
+### Software Engineer | AI Evaluation & Algorithmic Refactoring (Python 3, Java, TypeScript)
 
 [![Portfolio](https://img.shields.io/badge/GitHub-alvinmjosan-181717?style=for-the-badge&logo=github)](https://github.com/alvinmjosan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alvinmjosan)
