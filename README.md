@@ -84,10 +84,16 @@
 <div align="center">
 
 <a href="https://github.com/alvinmjosan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvinmjosan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Alvin's GitHub Stats" />
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=alvinmjosan&theme=tokyonight&hide_border=true" alt="Alvin's GitHub Streak" />
 </a>
 <a href="https://github.com/alvinmjosan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinmjosan&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alvinmjosan&theme=tokyonight" alt="Top Languages" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/alvinmjosan">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=alvinmjosan&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph" />
 </a>
 
 </div>
