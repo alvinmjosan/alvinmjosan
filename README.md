@@ -3,7 +3,7 @@
 # ⚡ Hi, I'm Alvin M Josan
 ### Software Engineer | AI Evaluation & Algorithmic Refactoring (Python 3, Java, TypeScript)
 
-[![Portfolio](https://img.shields.io/badge/GitHub-alvinmjosan-181717?style=for-the-badge&logo=github)](https://github.com/alvinmjosan)
+[![Portfolio](https://img.shields.io/badge/GitHub-alvin m josan-181717?style=for-the-badge&logo=github)](https://github.com/alvinmjosan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/alvinmjosan)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:alvinmjosan@gmail.com)
 
